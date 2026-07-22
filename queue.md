@@ -1,5 +1,10 @@
 # QueryKey — Queue
 
+## ⭐ GO THROUGH THE QUEUE (pivot §5b, Emma 2026-07-20)
+
+Standing top item: every cycle, actually work DOWN this queue.
+
+
 > **This file is concrete in-flight steps only.** Delete an item when it
 > is done — **no `[x]` checkmarks, no "COMPLETE" blocks, no per-Round
 > logs.** Finished work lives in `git log` (each change is its own commit
